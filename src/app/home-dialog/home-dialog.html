@@ -1,0 +1,45 @@
+<div>
+    <form #dialogForm = 'ngForm' (ngSubmit)="confirmar()">
+        <div mat-dialog-content>
+            <div class="md:grid md:grid-cols-2 md:gap-8 flex flex-col gap-4">
+                <!--Eixo X-->
+                <div>
+                    <h1 class="text-lg font-bold">Selecione o campo para o eixo horizontal do gráfico:</h1>
+                    <ol>
+                        <li *ngFor="let header of data.headers" class="text-lg"><input type="radio"
+                            name="eixoX" 
+                            [(ngModel)] ="eixoX"
+                            [value]="header"
+                            class="" />
+                            {{header}}
+                        </li>
+                    </ol>
+                </div>
+                <!--Eixo Y-->
+                <div>
+                    <h1 class="text-lg font-bold">Selecione os campos para o eixo vertical do gráfico:</h1>
+                    <ol>
+                        <li *ngFor="let header of data.headers" class="text-lg flex justify-between items-center">
+                            <div>
+                                <input type="checkbox"
+                                    name="'eixoY_' + header" 
+                                    [ngModel] = "eixoY.includes(header)"
+                                    (ngModelChange)="checkChange(header, $event)"
+                                    class="" 
+                                    />
+                                {{header}}
+                            </div>
+                            <select [name]="'color_' + header" *ngIf="eixoY.includes(header) "[(ngModel)]="selectedColor[header]" class="border px-2 py-1 rounded bg-white text-black min-w-32">
+                                <option *ngFor="let color of colors" [ngValue]="color">{{color}}</option>
+                            </select>
+                        </li>
+                    </ol>
+                </div>
+            </div>
+            <div mat-dialog-actions class="flex flex-col items-center gap-4">
+                <button class="bg-green-300 rounded w-40 border hover:border-green-300 hover:bg-white" type="submit">Confirmar!</button>
+                <button class="bg-red-300 rounded w-40 border hover:border-red-300 hover:bg-white" [mat-dialog-close]="">Cancelar</button>
+            </div>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,9 @@
+<div class="bg-gray-50 w-full h-screen flex flex-col items-center justify-center">
+    <div class="bg-white rounded shadow-lg flex flex-col items-center w-80 md:w-96 h-60 p-5">
+        <h1 class="text-3xl font-semibold text-gray-800">Selecione o arquivo da planilha(.csv)</h1>
+        <form #planilhaForm = "ngForm" class="flex flex-col gap-4 mt-10 items-center" (ngSubmit)="get()">
+            <input type="file" class="border text-md md:text-lg" accept=".csv" #fileInput />
+            <button type="submit" name="planilha" class="bg-green-300 rounded w-40 border hover:border-green-300 hover:bg-white text-xl">Enviar</button>
+        </form>
+    </div>
+</div>

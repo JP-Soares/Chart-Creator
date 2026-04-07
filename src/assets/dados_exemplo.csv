@@ -1,0 +1,201 @@
+ID,Nome,Idade,Cidade,Valor,Data
+1,Gustavo,49,Belo Horizonte,4393.49,2024-07-23
+2,Diana,56,Curitiba,3688.6,2024-05-05
+3,Eduardo,49,São Paulo,4027.23,2024-08-22
+4,Gustavo,21,Curitiba,1446.07,2024-02-12
+5,Carlos,47,Porto Alegre,928.33,2024-08-27
+6,Helena,54,Porto Alegre,3765.54,2024-04-20
+7,Eduardo,40,São Paulo,4043.83,2024-09-05
+8,Eduardo,56,Belo Horizonte,4953.0,2024-05-30
+9,Gustavo,62,Rio de Janeiro,2092.46,2024-07-01
+10,Bruno,32,São Paulo,1891.49,2024-12-01
+11,Carlos,60,Rio de Janeiro,3893.24,2024-04-04
+12,Gustavo,46,Salvador,1736.98,2024-01-08
+13,Carlos,53,Rio de Janeiro,4657.25,2024-12-25
+14,Carlos,30,Belo Horizonte,4299.14,2024-07-02
+15,Helena,49,Salvador,2173.52,2024-10-07
+16,Eduardo,24,Rio de Janeiro,3766.81,2024-07-13
+17,Diana,39,Salvador,3784.99,2024-12-17
+18,Helena,45,Rio de Janeiro,560.46,2024-07-13
+19,Helena,19,Belo Horizonte,4517.64,2024-06-03
+20,Carlos,59,Rio de Janeiro,2551.0,2024-04-02
+21,Fernanda,62,Rio de Janeiro,4140.96,2024-06-08
+22,Eduardo,23,Rio de Janeiro,1634.25,2024-03-01
+23,Bruno,45,São Paulo,4482.84,2024-05-01
+24,Helena,45,São Paulo,1976.55,2024-02-20
+25,Diana,61,São Paulo,103.65,2024-10-03
+26,Fernanda,61,Belo Horizonte,4531.64,2024-01-05
+27,Fernanda,37,Salvador,501.87,2024-04-01
+28,Bruno,47,Porto Alegre,1630.6,2024-06-18
+29,Helena,28,Rio de Janeiro,4752.81,2024-11-12
+30,Diana,45,Rio de Janeiro,4755.51,2024-01-22
+31,Eduardo,42,Belo Horizonte,2888.52,2024-11-21
+32,Ana,56,Rio de Janeiro,3177.59,2024-01-01
+33,Diana,50,São Paulo,2269.81,2024-05-12
+34,Bruno,18,Porto Alegre,1501.39,2024-08-20
+35,Fernanda,44,Curitiba,1676.89,2024-01-12
+36,Eduardo,30,Rio de Janeiro,3378.97,2024-12-11
+37,Diana,58,São Paulo,3774.25,2024-02-15
+38,Ana,20,Curitiba,3968.32,2024-02-03
+39,Ana,56,Porto Alegre,3958.61,2024-03-18
+40,Carlos,23,Curitiba,501.47,2024-08-05
+41,Carlos,25,São Paulo,2497.38,2024-10-27
+42,Gustavo,44,Salvador,334.92,2024-03-13
+43,Bruno,26,Salvador,2770.17,2024-10-08
+44,Helena,54,Curitiba,2235.58,2024-09-05
+45,Diana,50,Belo Horizonte,4444.14,2024-02-16
+46,Diana,59,Curitiba,1787.03,2024-04-30
+47,Helena,61,Rio de Janeiro,629.48,2024-08-01
+48,Gustavo,41,Rio de Janeiro,757.81,2024-08-26
+49,Fernanda,32,Salvador,3819.48,2024-02-25
+50,Fernanda,49,Belo Horizonte,3110.18,2024-12-15
+51,Gustavo,49,São Paulo,550.56,2024-04-16
+52,Fernanda,41,Rio de Janeiro,466.33,2024-11-14
+53,Carlos,58,Salvador,3519.8,2024-02-17
+54,Diana,29,Porto Alegre,410.18,2024-03-01
+55,Gustavo,56,Salvador,4118.21,2024-12-02
+56,Diana,19,Rio de Janeiro,3545.9,2024-01-26
+57,Helena,20,Rio de Janeiro,452.68,2024-10-18
+58,Ana,54,Salvador,469.95,2024-09-13
+59,Carlos,34,São Paulo,4933.87,2024-01-08
+60,Eduardo,19,Curitiba,1902.64,2024-04-22
+61,Carlos,19,Rio de Janeiro,1884.68,2024-12-20
+62,Gustavo,45,Salvador,4073.36,2024-09-09
+63,Eduardo,40,Salvador,4738.88,2024-06-28
+64,Ana,54,Belo Horizonte,4930.71,2024-07-25
+65,Gustavo,49,Curitiba,3779.22,2024-10-29
+66,Bruno,50,Porto Alegre,1912.48,2024-05-06
+67,Diana,18,São Paulo,463.33,2024-02-25
+68,Ana,36,Porto Alegre,3896.88,2024-08-01
+69,Diana,19,Curitiba,2814.1,2024-01-14
+70,Fernanda,61,Curitiba,2149.9,2024-01-28
+71,Bruno,43,Curitiba,4536.45,2024-03-18
+72,Bruno,49,Porto Alegre,600.43,2024-08-03
+73,Ana,23,Curitiba,2488.49,2024-12-30
+74,Bruno,49,Salvador,106.2,2024-06-02
+75,Eduardo,21,Porto Alegre,2369.87,2024-01-14
+76,Bruno,28,Curitiba,328.7,2024-07-05
+77,Diana,34,Salvador,638.15,2024-11-07
+78,Diana,55,Belo Horizonte,631.75,2024-01-07
+79,Gustavo,41,Curitiba,3263.59,2024-01-03
+80,Diana,22,Porto Alegre,3742.92,2024-04-20
+81,Gustavo,51,Rio de Janeiro,2937.68,2024-08-25
+82,Diana,23,Curitiba,4812.75,2024-12-28
+83,Eduardo,39,Rio de Janeiro,1905.61,2024-08-26
+84,Helena,28,Salvador,1464.27,2024-09-30
+85,Gustavo,33,Belo Horizonte,4349.57,2024-10-20
+86,Carlos,50,São Paulo,1156.8,2024-08-14
+87,Fernanda,26,Belo Horizonte,4817.95,2024-01-15
+88,Ana,23,Curitiba,110.16,2024-07-10
+89,Diana,33,Rio de Janeiro,4850.9,2024-04-28
+90,Bruno,46,Rio de Janeiro,263.64,2024-01-28
+91,Helena,20,Porto Alegre,4461.16,2024-07-20
+92,Diana,37,Rio de Janeiro,2662.12,2024-02-08
+93,Bruno,53,Porto Alegre,4965.18,2024-09-29
+94,Fernanda,36,Salvador,415.29,2024-08-18
+95,Fernanda,43,São Paulo,2791.58,2024-03-26
+96,Fernanda,20,Curitiba,4848.05,2024-05-05
+97,Bruno,36,Porto Alegre,2639.33,2024-10-26
+98,Diana,37,São Paulo,3165.52,2024-01-25
+99,Fernanda,49,Rio de Janeiro,3493.96,2024-05-24
+100,Eduardo,24,Rio de Janeiro,2299.98,2024-01-13
+101,Gustavo,58,São Paulo,3156.41,2024-07-30
+102,Bruno,50,Rio de Janeiro,2942.36,2024-01-25
+103,Bruno,57,Salvador,4510.73,2024-03-08
+104,Diana,56,Salvador,274.96,2024-03-07
+105,Bruno,35,São Paulo,1440.77,2024-08-20
+106,Bruno,57,Porto Alegre,4754.54,2024-04-18
+107,Fernanda,18,Porto Alegre,4456.81,2024-05-25
+108,Diana,28,São Paulo,2305.5,2024-04-20
+109,Fernanda,45,Porto Alegre,3119.66,2024-08-15
+110,Gustavo,42,Porto Alegre,1423.04,2024-04-20
+111,Helena,40,Salvador,981.2,2024-02-03
+112,Gustavo,48,Porto Alegre,2345.31,2024-04-20
+113,Helena,47,Belo Horizonte,1799.09,2024-09-20
+114,Fernanda,59,Curitiba,2939.1,2024-08-23
+115,Gustavo,52,Rio de Janeiro,434.79,2024-03-23
+116,Diana,24,Belo Horizonte,4873.25,2024-02-11
+117,Ana,33,Porto Alegre,4931.74,2024-04-10
+118,Fernanda,43,Salvador,3505.9,2024-01-06
+119,Helena,19,São Paulo,2703.68,2024-06-28
+120,Eduardo,18,Porto Alegre,1582.16,2024-10-08
+121,Helena,29,Salvador,4078.29,2024-11-15
+122,Eduardo,22,Curitiba,3439.42,2024-08-13
+123,Bruno,54,Porto Alegre,854.95,2024-11-10
+124,Gustavo,49,São Paulo,4559.09,2024-12-30
+125,Eduardo,26,Salvador,4121.56,2024-08-16
+126,Helena,58,Salvador,4751.51,2024-10-15
+127,Bruno,52,Salvador,3642.31,2024-05-29
+128,Ana,36,Curitiba,3086.41,2024-10-03
+129,Diana,33,Porto Alegre,2120.3,2024-07-16
+130,Diana,20,Curitiba,4667.01,2024-03-10
+131,Diana,37,Rio de Janeiro,4337.02,2024-04-21
+132,Eduardo,41,Rio de Janeiro,273.83,2024-01-04
+133,Ana,50,Porto Alegre,180.52,2024-12-15
+134,Eduardo,41,Curitiba,1913.49,2024-11-26
+135,Gustavo,28,São Paulo,4062.24,2024-11-13
+136,Eduardo,25,Salvador,4937.02,2024-12-15
+137,Ana,53,Salvador,794.56,2024-04-04
+138,Ana,55,Porto Alegre,2990.95,2024-05-31
+139,Gustavo,57,Rio de Janeiro,1935.41,2024-11-06
+140,Ana,37,Rio de Janeiro,4851.08,2024-05-16
+141,Helena,52,Salvador,4218.49,2024-09-03
+142,Ana,42,Porto Alegre,4199.73,2024-08-30
+143,Diana,52,Curitiba,2370.03,2024-01-31
+144,Helena,42,Rio de Janeiro,2103.36,2024-02-09
+145,Helena,46,Curitiba,1403.37,2024-08-16
+146,Gustavo,35,Rio de Janeiro,329.06,2024-02-05
+147,Carlos,63,Rio de Janeiro,4330.38,2024-08-10
+148,Carlos,35,Belo Horizonte,4073.86,2024-01-06
+149,Ana,19,Rio de Janeiro,4998.6,2024-11-17
+150,Helena,52,São Paulo,4983.35,2024-08-07
+151,Carlos,33,Porto Alegre,2799.39,2024-03-15
+152,Carlos,58,Porto Alegre,3856.49,2024-01-04
+153,Ana,53,Curitiba,4726.59,2024-11-30
+154,Carlos,50,Rio de Janeiro,4255.75,2024-05-13
+155,Eduardo,21,São Paulo,1274.37,2024-04-27
+156,Bruno,50,Curitiba,2280.19,2024-04-03
+157,Gustavo,31,Belo Horizonte,689.34,2024-03-02
+158,Bruno,38,Curitiba,4772.55,2024-07-12
+159,Ana,37,Curitiba,3050.56,2024-11-30
+160,Diana,25,Rio de Janeiro,1181.78,2024-07-21
+161,Gustavo,24,Belo Horizonte,3374.92,2024-01-26
+162,Ana,20,Curitiba,3109.73,2024-06-21
+163,Helena,34,São Paulo,1822.91,2024-10-26
+164,Diana,50,São Paulo,612.11,2024-05-12
+165,Bruno,29,Porto Alegre,3374.29,2024-11-21
+166,Ana,39,Belo Horizonte,2625.52,2024-04-27
+167,Helena,39,Belo Horizonte,3872.98,2024-11-19
+168,Gustavo,63,Porto Alegre,2624.81,2024-10-01
+169,Gustavo,47,Curitiba,4268.3,2024-07-30
+170,Fernanda,55,Belo Horizonte,2781.94,2024-08-12
+171,Helena,55,São Paulo,2826.64,2024-01-20
+172,Eduardo,62,São Paulo,4389.44,2024-04-22
+173,Carlos,25,Rio de Janeiro,2047.24,2024-05-19
+174,Diana,44,Belo Horizonte,713.38,2024-02-16
+175,Helena,44,Curitiba,192.47,2024-01-01
+176,Fernanda,51,Porto Alegre,3787.93,2024-03-30
+177,Carlos,38,Porto Alegre,3120.53,2024-05-21
+178,Carlos,47,Curitiba,3535.19,2024-11-15
+179,Ana,50,Salvador,1104.17,2024-02-07
+180,Carlos,45,Rio de Janeiro,725.04,2024-10-19
+181,Eduardo,64,Porto Alegre,122.0,2024-05-18
+182,Gustavo,50,Belo Horizonte,1785.41,2024-12-21
+183,Fernanda,22,Rio de Janeiro,2970.09,2024-11-28
+184,Carlos,36,Belo Horizonte,1991.61,2024-09-15
+185,Ana,21,São Paulo,2215.5,2024-06-09
+186,Eduardo,52,Rio de Janeiro,4525.59,2024-06-26
+187,Bruno,34,Porto Alegre,1773.86,2024-01-10
+188,Gustavo,61,Rio de Janeiro,2594.25,2024-09-17
+189,Gustavo,45,Rio de Janeiro,3929.08,2024-05-17
+190,Fernanda,47,Rio de Janeiro,2012.89,2024-06-20
+191,Gustavo,46,Salvador,3129.33,2024-01-13
+192,Carlos,63,Rio de Janeiro,4318.7,2024-06-16
+193,Ana,23,Belo Horizonte,4750.13,2024-05-09
+194,Gustavo,52,São Paulo,778.01,2024-03-24
+195,Gustavo,58,Curitiba,4636.61,2024-11-16
+196,Bruno,54,Rio de Janeiro,2485.98,2024-11-14
+197,Bruno,41,Porto Alegre,1328.31,2024-04-10
+198,Diana,46,Rio de Janeiro,2322.72,2024-11-24
+199,Eduardo,63,Porto Alegre,4901.16,2024-09-29
+200,Carlos,48,Belo Horizonte,2488.46,2024-09-21
