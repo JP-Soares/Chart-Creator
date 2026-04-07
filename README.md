@@ -1,59 +1,30 @@
-# CriadorGraficos
+# Chart‑Creator
+  
+[![Angular Version](https://img.shields.io/badge/angular-v20.3.3-red.svg)](https://angular.io/)
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.3.
+**Chart‑Creator** is a powerful Angular‑based chart builder that enables users to upload Excel spreadsheets, select specific columns, and generate dynamic, interactive visualizations. Designed for simplicity and flexibility, it supports multiple chart types and allows export to PDF for reporting, sharing, and presentation purposes.
 
-## Development server
+## 🚀 Key Features
 
-To start a local development server, run:
+- 📊 **Multiple Chart Types** – Create line, bar, pie, and other visualizations to fit your dataset.
+- 📥 **Excel Support** – Upload `.xlsx` files and map columns to chart data.
+- 📈 **Dynamic & Interactive** – Visualizations update in real time as users configure settings.
+- 📄 **PDF Export** – Save charts to PDF for use in presentations and reports.
+- 🛠️ **Angular‑Based Architecture** – Built with modern Angular tooling and Tailwind CSS for responsive UI.
 
-```bash
-ng serve
-```
+## 🧩 Installation
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+### Prerequisites
 
-## Code scaffolding
+Make sure you have the following installed:
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+- **Node.js** (v16+ recommended)
+- **npm** (v8+)
+- **Angular CLI** (`npm install -g @angular/cli`)
 
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
+### Clone and Setup
 
 ```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+git clone https://github.com/JP-Soares/Chart-Creator.git
+cd Chart-Creator
+npm install
